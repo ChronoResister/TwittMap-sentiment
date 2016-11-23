@@ -1,6 +1,6 @@
 # TwittMap-sentiment
 
-**Group member: Bingxin Chen(bc1958) Zeyu Meng(zm649)
+### Group member: Bingxin Chen(bc1958) Zeyu Meng(zm649)
 
 ![alt text](https://raw.githubusercontent.com/ChronoResister/TwittMap-sentiment/master/sc1.jpeg "Screenshot1")
 ![alt text](https://raw.githubusercontent.com/ChronoResister/TwittMap-sentiment/master/sc2.jpeg "Screenshot2")
